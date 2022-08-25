@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sujayk29
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning @ KLS Gogte Institute of Technology
-- 💞️ I’m looking to collaborate on embedded c, html-css
+- 🌱 I’m currently learning ...@ KLS Gogte Institute of Technology
+- 💞️ I’m looking to collaborate on ... embedded c, html-css
 - 📫 How to reach me sujay-katti-ab137711b
 
 <!---
